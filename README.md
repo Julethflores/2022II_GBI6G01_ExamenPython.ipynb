@@ -1,0 +1,1 @@
+# 2022II_GBI6G01_ExamenPython.ipynb
